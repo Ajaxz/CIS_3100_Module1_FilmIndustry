@@ -1,0 +1,54 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0100000US,,United States,512110,Motion picture and video production,2016,14259,242700,2777684,11188810
+0400000US06,6,California,512110,Motion picture and video production,2016,5624,171512,1973922,7845403
+0400000US36,36,New York,512110,Motion picture and video production,2016,1993,27989,302959,1231926
+0400000US12,12,Florida,512110,Motion picture and video production,2016,764,3401,56163,235431
+0400000US48,48,Texas,512110,Motion picture and video production,2016,470,2175,25297,135555
+0400000US17,17,Illinois,512110,Motion picture and video production,2016,420,1587,27996,121630
+0400000US13,13,Georgia,512110,Motion picture and video production,2016,376,3457,83816,281750
+0400000US08,8,Colorado,512110,Motion picture and video production,2016,259,1080,14750,64028
+0400000US42,42,Pennsylvania,512110,Motion picture and video production,2016,247,1285,19982,76163
+0400000US53,53,Washington,512110,Motion picture and video production,2016,243,995,12176,60951
+0400000US34,34,New Jersey,512110,Motion picture and video production,2016,238,1274,19306,96869
+0400000US25,25,Massachusetts,512110,Motion picture and video production,2016,235,948,11533,55471
+0400000US37,37,North Carolina,512110,Motion picture and video production,2016,229,1236,12870,62218
+0400000US39,39,Ohio,512110,Motion picture and video production,2016,195,914,10994,49208
+0400000US27,27,Minnesota,512110,Motion picture and video production,2016,192,828,13264,52821
+0400000US24,24,Maryland,512110,Motion picture and video production,2016,186,1234,21822,88204
+0400000US41,41,Oregon,512110,Motion picture and video production,2016,183,1267,19298,80054
+0400000US51,51,Virginia,512110,Motion picture and video production,2016,178,1334,23830,96231
+0400000US26,26,Michigan,512110,Motion picture and video production,2016,169,794,6073,29559
+0400000US47,47,Tennessee,512110,Motion picture and video production,2016,166,1314,13136,54601
+0400000US49,49,Utah,512110,Motion picture and video production,2016,164,948,9089,38320
+0400000US04,4,Arizona,512110,Motion picture and video production,2016,156,399,3326,16318
+0400000US09,9,Connecticut,512110,Motion picture and video production,2016,132,1013,27512,111154
+0400000US29,29,Missouri,512110,Motion picture and video production,2016,128,522,5915,29985
+0400000US32,32,Nevada,512110,Motion picture and video production,2016,119,334,3762,16754
+0400000US55,55,Wisconsin,512110,Motion picture and video production,2016,111,469,5479,24258
+0400000US18,18,Indiana,512110,Motion picture and video production,2016,107,305,3351,14360
+0400000US22,22,Louisiana,512110,Motion picture and video production,2016,80,7072,7876,26789
+0400000US11,11,District of Columbia,512110,Motion picture and video production,2016,80,346,6150,30128
+0400000US40,40,Oklahoma,512110,Motion picture and video production,2016,72,247,3402,14986
+0400000US45,45,South Carolina,512110,Motion picture and video production,2016,62,521,1672,6687
+0400000US21,21,Kentucky,512110,Motion picture and video production,2016,61,229,2377,10872
+0400000US01,1,Alabama,512110,Motion picture and video production,2016,52,214,3008,13954
+0400000US19,19,Iowa,512110,Motion picture and video production,2016,51,227,2165,9605
+0400000US30,30,Montana,512110,Motion picture and video production,2016,48,184,1689,8946
+0400000US15,15,Hawaii,512110,Motion picture and video production,2016,45,297,1318,6026
+0400000US35,35,New Mexico,512110,Motion picture and video production,2016,44,3288,2315,7622
+0400000US23,23,Maine,512110,Motion picture and video production,2016,42,111,1318,6102
+0400000US05,5,Arkansas,512110,Motion picture and video production,2016,37,160,1765,7326
+0400000US20,20,Kansas,512110,Motion picture and video production,2016,37,138,1234,5281
+0400000US10,10,Delaware,512110,Motion picture and video production,2016,34,77,1168,6763
+0400000US33,33,New Hampshire,512110,Motion picture and video production,2016,33,336,6682,29951
+0400000US31,31,Nebraska,512110,Motion picture and video production,2016,33,67,721,2808
+0400000US44,44,Rhode Island,512110,Motion picture and video production,2016,31,153,1045,5442
+0400000US50,50,Vermont,512110,Motion picture and video production,2016,28,96,778,3640
+0400000US16,16,Idaho,512110,Motion picture and video production,2016,21,42,506,2242
+0400000US02,2,Alaska,512110,Motion picture and video production,2016,19,57,384,2020
+0400000US46,46,South Dakota,512110,Motion picture and video production,2016,17,59,611,3023
+0400000US28,28,Mississippi,512110,Motion picture and video production,2016,17,34,343,1614
+0400000US56,56,Wyoming,512110,Motion picture and video production,2016,14,56,672,3972
+0400000US38,38,North Dakota,512110,Motion picture and video production,2016,9,46,503,2292
+0400000US54,54,West Virginia,512110,Motion picture and video production,2016,8,29,361,1497
